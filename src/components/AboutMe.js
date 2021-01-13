@@ -12,8 +12,8 @@ const AboutMe = () => {
                 <div className="col-lg-6 col-xs-12">
                     <h1 className="about-heading">about me</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas mollitia possimus animi laboriosam tempore.
-                    <br />Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas mollitia possimus animi laboriosam tempore dolores voluptate porro sunt est.
-                    voluptatev.  Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas mollitia possimus animi laboriosam tempore dolores voluptate porro sunt est, culpa ratione deserunt rerum voluptatem qui ipsum quos! Reiciendis facere necessitatibus optio quam dolore pariatur maxime voluptatum asperiores, provident repudiandae quos? <br />
+                    <br />amet consectetur adipisicing elit. Quas mollitia possimus animi laboriosam tempore dolores voluptate porro sunt est.
+                    voluptatev. <br /> <br />
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas mollitia possimus animi laboriosam tempore dolores voluptate porro sunt est, culpa ratione deserunt rerum voluptatem qui ipsum quos! Reiciendis facere necessitatibus optio quam dolore pariatur maxime voluptatum asperiores, provident repudiandae quos!
                     </p>
                 </div>
