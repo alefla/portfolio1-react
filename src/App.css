@@ -3,6 +3,7 @@
   --primary-white: #ffffff;
   --primary-light-grey: #f4f4f4;
   --primary-grey: #ccd1d9;
+  --primary-dark-grey: #666666;
   --primary-orange: #f9ab00;
   --primary-dark: rgb(52, 58, 64);/*2.to fix drop element when click, cause by adding border top active styling*/
   --primary-red: #ef4035;
