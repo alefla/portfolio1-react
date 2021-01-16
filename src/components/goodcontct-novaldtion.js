@@ -4,9 +4,9 @@ import emailjs from "emailjs-com";
 
 const Contact = () => {
 
-    const serviceID = "service_ID";
-    const templateID = "template_ID";
-    const userID = "user_91YImjAnanYO0FzeaT7sc";
+    const serviceID = "";
+    const templateID = "";
+    const userID = "";
     const sendEmail=(e) =>{
         e.preventDefault();
     
