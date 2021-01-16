@@ -23,7 +23,7 @@ const Footer = () => {
                             <a href="tel:415-000-000">(415)000-000</a>
                         </div>
                         <div className="d-flex">
-                            <p>info@testweb.com</p>
+                            <p>info@onemissionstudio.com - web developer</p>
                         </div>
                     </div>
                     <div className="col-lg-3 col-md-2 col-sm-6">

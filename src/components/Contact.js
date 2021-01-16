@@ -38,7 +38,7 @@ const Contact = () => {
         <div id="contact" className="contact">
             <div className="text-center">
                 <h1>contact me</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, libero.</p>
+                <p>Demo form only. Contact: info@onemissionstudio.com .</p>
                 <span className="success-message">{successMessage}</span>
             </div>
             <div className="container">
